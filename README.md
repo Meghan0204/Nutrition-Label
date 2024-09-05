@@ -1,3 +1,6 @@
 # Nutrition-Label
+This nutrition label was created as part of my Responsive Web Design certification from FreeCodeCamp.org. It highlights my skills in typography and attention to detail, demonstrating my ability to build visually structured and precise web components.
 
-## This is a website for a nutrition label that I created from FreeCodeCamp.org as part of my Responsive Web Design certifiation.
+
+# Technologies Used
+HTML, CSS, Typography, GitHub Pages
